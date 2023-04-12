@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Han
 - 👀 I’m interested in technology, economics, blockchain, as well as anything that involves people and philosophy.
-- 🌱 Currently exploring the web3 space and building a student community on campus at [@UW Blockchain](https://linktr.ee/udubblockchain)
+- 🌱 Currently exploring the web3 space, researching and building a student community on campus at [@UW Blockchain](https://linktr.ee/udubblockchain)
 - 🌈 In my free time I enjoy playing guitar, [reading](https://www.goodreads.com/user/show/53376037-han-pham), and exploring new coffee shops.
 - ✍️ I'm also building a personal blog brand [@Blockchainetc](https://mirror.xyz/hanpham.eth)
 - 📫 How to reach me: hanpham3230@gmail.com and more [here](https://dot.cards/han)
