@@ -3,7 +3,7 @@
 - 🌱 Currently exploring the web3 space, researching and building a student community on campus at [@UW Blockchain](https://linktr.ee/udubblockchain)
 - 🌈 In my free time I enjoy playing guitar, [reading](https://www.goodreads.com/user/show/53376037-han-pham), and exploring new coffee shops.
 - ✍️ I journal my experience and publish my research sometimes on [Medium](https://medium.com/@hanspham)
-- 📫 How to reach me: hanpham3230@gmail.com and more [here](https://www.hanspham.com). Looking to connect with other builders and techies!
+- 📫 How to reach me: hanpham3230@gmail.com and more [here](https://hanspham.com/). Looking to connect with other builders and techies!
 
 <!---
 hanpham32/hanpham32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
