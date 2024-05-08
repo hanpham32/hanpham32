@@ -1,3 +1,4 @@
+### Open for dev projects/jobs/opportunities
 - 👋 Hey, I’m Han
 - 👀 I’m interested in technology, economics, and blockchain.
 - 🌈 In my free time, I enjoy practicing 35mm film photography, explore the PNW nature, watch shows and movies (currently on The Great British Baking Show), and [read](https://www.goodreads.com/user/show/53376037-han-pham).
