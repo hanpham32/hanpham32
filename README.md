@@ -5,6 +5,9 @@
 - ✍️ I journal and blog sometimes on [Medium](https://medium.com/@hanspham)
 - 📫 How to reach me: hanpham3230@gmail.com and more [here](https://hanspham.com/). Looking to connect with other builders and techies!
 
+Some highlighted projects I'm working on:
+- 🎓 An education platform for users to build and developers to host and organize technical workshops (preview soon here)
+
 <!---
 hanpham32/hanpham32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
