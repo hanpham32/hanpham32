@@ -1,7 +1,7 @@
 ### Open for dev projects/jobs/opportunities
 - 👋 Hey, I’m Han. I'm an undergrad studying CS at the University of Washington (Bothell), graduating in Winter 2024
 - 👀 I’m interested in technology, economics, and blockchain
-- 🌈 In my free time, I enjoy practicing 35mm film photography, explore the PNW nature, and [read](https://www.goodreads.com/user/show/53376037-han-pham)
+- 🌈 In my free time, I enjoy crocheting, playing guitar, visting my Stardew farm and animals, and [reading](https://www.goodreads.com/user/show/53376037-han-pham)
 - ✍️ I journal and blog sometimes on [Medium](https://medium.com/@hanspham)
 - 📫 How to reach me: hanpham3230@gmail.com and more [here](https://hanspham.com/). Looking to connect with other builders and techies!
 
