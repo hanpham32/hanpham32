@@ -1,4 +1,4 @@
-### Open for dev projects/jobs/opportunities
+
 - 👋 Hey, I’m Han. I'm a recent Computer Science graduate at the University of Washington Bothell
 - 👀 I’m interested in technology, economics, and blockchain. Currently exploring the intersection of AI X Web3
 - 🛠️ Fav open source tools I use: Ghostty terminal, zsh shell, Nvim, or Zed sometimes, for text editor, Logseq for note taking, and Guitarix guitar amp simulator
